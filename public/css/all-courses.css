@@ -1,0 +1,79 @@
+.all-coures {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../images/Background-Course3.jpg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.add-coures {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../images/Background-Course2.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.edit-coures {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../images/Background-Course5.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.remove-coures {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../images/Background-Course4.jpg);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.confirm-courses {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../images/Background-Course8.jpg);
+  background-size: 55%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.nav-logo {
+  max-width: 10%;
+  height: auto;
+  float: right;
+}
+
+
+.navbar {
+  max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }

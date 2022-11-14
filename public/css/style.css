@@ -1,0 +1,82 @@
+body {
+    background-color: #2F3035;
+    position: relative;
+    background-image: url(../images/Background-Course1.jpg);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.728);
+    text-align: center;
+    margin-left: 9.5%; 
+    margin-right: 9.5%; 
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 80%;
+    border:1px solid white;
+}
+
+main {
+    height: 400px;
+    text-align: center;    
+    padding-left: 40px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.728);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h3 {
+    font-size: 44px;
+    color:rgb(19, 7, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    
+    font-size: 14px;	
+    color: rgb(5, 71, 55);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;    
+}
+
+a {
+    color: rgb(206, 17, 17);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    /* text-decoration: none; */
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 110%;
+    font-weight: bold;
+    padding-left: 80px;
+    padding-right: 80px;    
+}
+
+footer p {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+    padding: 3px;
+}
+
